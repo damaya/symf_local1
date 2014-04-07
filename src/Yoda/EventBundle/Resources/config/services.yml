@@ -1,0 +1,7 @@
+parameters:
+#    yoda_event.example.class: Yoda\EventBundle\Example
+
+services:
+#    yoda_event.example:
+#        class: %yoda_event.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

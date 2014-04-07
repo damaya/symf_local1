@@ -1,0 +1,8 @@
+vader_event:
+    resource: "@VaderEventBundle/Resources/config/routing.yml"
+    prefix:   /
+
+yoda_event:
+    resource: "@YodaEventBundle/Resources/config/routing.yml"
+    prefix:   /
+

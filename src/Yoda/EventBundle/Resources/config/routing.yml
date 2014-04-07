@@ -1,0 +1,7 @@
+yoda_event_homepage:
+    pattern:  /yoda/{name}/{jedi}
+    defaults: { _controller: YodaEventBundle:Default:index }
+
+yoda_event_force:
+    pattern:  /force/{force}/{points}
+    defaults: { _controller: YodaEventBundle:Force:index }

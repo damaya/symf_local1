@@ -1,0 +1,3 @@
+vader_event_homepage:
+    pattern:  /vader/{name}/{sith}
+    defaults: { _controller: VaderEventBundle:Default:index }
